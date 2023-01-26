@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DotNetAppSqlDb",
+      "appliesTo": "dotnet-sqldb-tutorial-master/DotNetAppSqlDb/",
+      "type": "launch"
+    }
+  ]
+}
